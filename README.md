@@ -1,6 +1,3 @@
-[Sample video output](https://github.com/mgbaybay/SpaceX/blob/master/Sample%20Output.mkv) 
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
